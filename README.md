@@ -18,6 +18,12 @@ The findings are summarized in a professional report that highlights trends, pri
 
 ---
 
+## DataSets Used
+- The Customer Support Ticket Dataset is a dataset that includes customer support tickets for various tech products. It consists of customer inquiries related to hardware issues, software bugs, network problems, account access, data loss, and other support topics. The dataset provides information about the customer, the product purchased, the ticket type, the ticket channel, the ticket status, and other relevant details.
+- <a href="https://github.com/sohail06015/FUTURE_DS_02/blob/main/customer_support_tickets.csv"> Data Set </a>
+
+---
+
 ## Key Findings (from the report)
 
 - **Top 5 Issues**:
@@ -57,6 +63,11 @@ The report includes:
 - Root cause analysis
 - Priority and resolution insights
 - Business recommendations
+
+---
+
+## Report
+<a href="https://github.com/sohail06015/FUTURE_DS_02/blob/main/Report_1.pdf"> Report Link </a>
 
 ---
 
