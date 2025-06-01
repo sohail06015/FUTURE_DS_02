@@ -67,7 +67,7 @@ The report includes:
 ---
 
 ## Report
-<a href="https://github.com/sohail06015/FUTURE_DS_02/blob/main/Report_1.pdf"> Report Link </a>
+- <a href="https://github.com/sohail06015/FUTURE_DS_02/blob/main/Report_1.pdf"> Report Link </a>
 
 ---
 
